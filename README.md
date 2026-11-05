@@ -12,7 +12,7 @@
 ## About me
 
 - Studying for a three-year IT licence in **Information Systems Development** at the Higher Institute of Technological Studies.
-- I build and run **Discord bots** that stay online around the clock: slash commands, control panels, moderation, tickets, leveling and giveaways, backed by MySQL and kept alive with PM2.
+- I build and run **Discord bots** that stay online around the clock: slash commands, control panels, moderation, tickets and leveling, backed by MySQL and kept alive with PM2.
 - I set up **Shopify stores** for local brands, including bilingual French / Arabic storefronts, custom Liquid sections and domain setup.
 - I design **websites** that load fast and feel alive, like my portfolio, [lexx2.dev](https://lexx2.dev).
 - Currently digging into **networking and cybersecurity**, hands-on with Kali Linux.
@@ -25,7 +25,7 @@
 | [Amansada Parfums](https://amansada.tn/) | Shopify store for a Tunisian perfume brand, in French and Arabic |
 | [2hot4u](https://lexx2.dev/2hot4u/) | Public Discord bot that gives every member their own temporary voice room |
 | [Ivy](https://lexx2.dev/ivy/) | Private community-management bot for Reels Community |
-| [Quinn](https://lexx2.dev/quinn/) | Private bot for leveling, private voice rooms, tickets, moderation and giveaways |
+| [Quinn](https://lexx2.dev/quinn/) | Private bot for leveling, private voice rooms, tickets and moderation |
 | [lexx2.dev](https://lexx2.dev) | My portfolio: Angular, GSAP and WebGL |
 
 ## Toolbox
