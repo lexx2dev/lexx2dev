@@ -24,6 +24,7 @@
 | [Reels Community](https://www.reelscommunity.online/) | Website for a Discord community of 18,000+ members |
 | [Mouvision](https://mouvision.me/) | Portfolio website for a Tunisian photographer and filmmaker, in French and English |
 | [designers.tn](https://designers.tn/) | Directory of 400+ design and development tools for designers in Tunisia, in English, French and Arabic |
+| [OYOONY](https://oyoonyshop.vercel.app/) *(unofficial)* | Unofficial redesign of a Tunisian coloured contact lens shop, built as a proposal for its owners, in French, English and Arabic |
 | [Amansada Parfums](https://amansada.tn/) | Shopify store for a Tunisian perfume brand, in French and Arabic |
 | [2hot4u](https://lexx2.dev/2hot4u/) | Public Discord bot that gives every member their own temporary voice room |
 | [Ivy](https://lexx2.dev/ivy/) | Private community-management bot for Reels Community |
