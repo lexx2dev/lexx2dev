@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm lexx</h1>
 
 <p align="center">
-  21-year-old IT student building <b>Discord bots</b>, <b>Shopify stores</b> and <b>fast websites</b>.
+  IT Student
 </p>
 
 <p align="center">
